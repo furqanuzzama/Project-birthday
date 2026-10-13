@@ -87,7 +87,7 @@ export default function FinalScreen() {
         animate={{ opacity: 1 }}
         transition={{ delay: 1.4, duration: 0.8 }}
       >
-        Made with all my heart, just for you
+        Made with Mechanical heart for a Technical Brain 😁.
       </motion.p>
     </motion.div>
   );
