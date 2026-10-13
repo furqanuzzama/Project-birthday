@@ -10,22 +10,22 @@ import Confetti from "@/components/effects/Confetti";
 
 const CARDS = [
   {
-    heading: "Happy Birthday Name!",
+    heading: "Happy Birthday Riya Singh!",
     body: [
       "I hope your special day will bring you lots of happiness, love, and fun. You deserve them a lot. Enjoy!",
-      "Hope your day goes great!",
+      "Hope your journey goes great!",
     ],
   },
   {
-    heading: "Happy Birthday Name",
+    heading: "Happy Birthday Riya Singh!",
     body: [
       '"Happy Birthday! May this day be as sunny as your smile, and as beautiful as your heart. You deserve all the happiness in the world today and every day. May your journey through life be an adventure of discovery and growth."!',
     ],
   },
   {
-    heading: '"Alles Gute zum Geburtstag"!',
+    heading: "Happy Birthday Riya Singh!",
     body: [
-      '"Möge dieser Geburtstagsgruß ein Lächeln bringen und der Feier eine besondere Note verleihen. 🌟🎉🎂"',
+      "Keep smiling and keep improving. 🌟🎉🎂",
     ],
   },
 ];
