@@ -68,7 +68,7 @@ export default function IntroScreen({ onNext }) {
           animate={{ y: 0, opacity: 1 }}
           transition={{ delay: 0.6, duration: 0.7, ease: "easeOut" }}
         >
-          Hey Name!!
+          Hey Riya Singh!!
         </motion.h1>
 
         <motion.p
