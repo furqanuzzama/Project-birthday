@@ -5,11 +5,11 @@ import TypewriterText from "@/components/TypewriterText";
 import GlowButton from "@/components/GlowButton";
 
 const compliments = [
-  "You look adorable",
-  "You have the sweetest vibe",
-  "You make things feel lighter",
-  "You are naturally charming",
-  "You make everything feel more special",
+  "You are soo cute",
+  "You are too good",
+  "You are special",
+  "You are naturally humble",
+  "You are dedicated",
 ];
 
 function Card({ text, isOpen, onToggle, index }) {
